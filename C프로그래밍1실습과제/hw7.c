@@ -22,7 +22,7 @@ int main(void)
 
 	return 0;
 }
-
+// 두 배열에 저장된 요소들의 값을 하나씩 서로 교환하기
 void Swap(int arr1[], int arr2[])
 {
 	int i, temp;
